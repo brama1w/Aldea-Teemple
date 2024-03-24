@@ -38,7 +38,6 @@
 <h1>DEALER 
 <br>
 SWAP
-	
 </h1>
 1. facilitar transacciones globales:
 
