@@ -39,6 +39,8 @@
 <br>
 SWAP
 </h1>
+<body>
+
 1. facilitar transacciones globales:
 
 Una de las ventajas clave del uso de criptomonedas en transacciones inmobiliarias es su capacidad para facilitar transacciones globales fluidas. Los métodos tradicionales de transferencia de fondos a través de fronteras a menudo implican procesos largos, tarifas elevadas y posibles retrasos. Sin embargo, con las criptomonedas, estas barreras se reducen significativamente o se eliminan por completo. Por ejemplo, si un comprador de otro país desea comprar una propiedad utilizando Bitcoin, la transacción se puede completar rápidamente sin necesidad de intermediarios ni conversiones de moneda complejas.
