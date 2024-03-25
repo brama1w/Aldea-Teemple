@@ -39,7 +39,6 @@
 <br>
 SWAP
 </h1>
-<body>
 
 1. facilitar transacciones globales:
 
